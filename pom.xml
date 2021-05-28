@@ -23,6 +23,7 @@
     <modules>
         <module>ftp-server</module>
         <module>java-nio-common</module>
+        <module>MessageQueue</module>
     </modules>
 
 
